@@ -1,0 +1,28 @@
+@media (max-width: 550px) {
+
+    h1 {
+        font-size: 50px;
+    }
+
+    .input {
+        width: 250px;
+        height: 20px;
+        font-size: 20px;
+    }
+
+    ul {
+        margin: 6% 0 0 15%;
+    }
+
+    li {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    button {
+        /* width: 25px; */
+        height: 25px;
+        border-width: 1.5px;
+        margin-right: 10px;
+    }
+}
